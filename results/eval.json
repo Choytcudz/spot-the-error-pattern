@@ -1,0 +1,29 @@
+{
+  "opencv": "5.0.0",
+  "n_held_out": 20,
+  "n_correct": 20,
+  "accuracy": 1.0,
+  "by_kind": {
+    "clean": {
+      "correct": 4,
+      "n": 4
+    },
+    "mild_blur": {
+      "correct": 4,
+      "n": 4
+    },
+    "heavy_blur": {
+      "correct": 4,
+      "n": 4
+    },
+    "dark": {
+      "correct": 4,
+      "n": 4
+    },
+    "glare": {
+      "correct": 4,
+      "n": 4
+    }
+  },
+  "failures": []
+}
